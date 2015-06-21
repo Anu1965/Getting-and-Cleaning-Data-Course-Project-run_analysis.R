@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project-run_analysis.R
 This is the submission for Coursera-Getting-and-Cleaning-Data-Course-Project/run_analysis.R
-run_analysis.R should (hopefully) do the following:
+run_analysis.R should do the following:
 
 1) Merge the training and the test sets to create one data set.
 
